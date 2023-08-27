@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawongr&layout=compact&theme=tokyonight" alt="toplang" />                       </div>      
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Chawongr&show_icons=true&theme=tokyonight" alt="stat" /></div>      
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Chawongr&show_icons=true&theme=tokyonight" alt="stat" />      
+</div> 
 
