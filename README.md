@@ -46,7 +46,6 @@
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="exp" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" alt="dotnet" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" widht="40" height="40" /> </a>
-  <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="next" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="tailwind" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="bootstrap" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" alt="flutter" widht="40" height="40" /> </a>
