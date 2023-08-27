@@ -29,8 +29,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chawongr&show_icons=true&theme=gotham" height="150"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawongr&layout=compact&theme=gotham" height="150" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=Chawongr&show_icons=true&theme=gotham" height="175"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawongr&layout=compact&theme=gotham" height="175" />  
 </div> 
   
 
