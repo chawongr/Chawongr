@@ -19,4 +19,10 @@ Here are some ideas to get you started:
   </span>
 </h1>
 
+<h2 align="center"> Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chawongr&layout=compact&theme=tokyonight" alt="toplang" />                       </div>      
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Chawongr&show_icons=true&theme=tokyonight" alt="stat" /></div>      
+
 
