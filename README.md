@@ -11,19 +11,6 @@
 
 <h3 align="center">Welcome to my GitHub Yalla</h3>
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 <h3 align="Left">Languages & Tools</h3>
 <p align="center">
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" alt="c" widht="40" height="40" /> </a>
@@ -34,6 +21,7 @@
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="js" widht="40" height="40" /> </a>
+  <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="ts" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="sql" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="mongo" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="linux" widht="40" height="40" /> </a>
@@ -46,9 +34,9 @@
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="exp" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/DotNet.svg" alt="dotnet" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" widht="40" height="40" /> </a>
+  <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg" alt="next" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="tailwind" widht="40" height="40" /> </a>
   <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="bootstrap" widht="40" height="40" /> </a>
-  <a> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Flutter-Dark.svg" alt="flutter" widht="40" height="40" /> </a>
 </p>
 <br>
 
